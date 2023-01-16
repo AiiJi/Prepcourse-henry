@@ -1,2 +1,3 @@
-# Prepcourse-henry
-repositorio de prueba modulo2 prepcourse henry
+AiiJi
+Primer Repositorio en la nube, editado desde mi PC
+y clonado a mi escritorio local
